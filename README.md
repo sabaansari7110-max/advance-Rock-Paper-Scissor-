@@ -46,9 +46,10 @@ s or scissors
 (Uppercase/lowercase doesn't matter)
 <br>
 Type q or quit to exit the game at any time.
-<br>
-Example Gameplay
-Rock Paper Scissors - First to 5 Wins
+<br> 
+
+# Example Gameplay
+## Rock Paper Scissors - First to 5 Wins
 -------------------------------------
 Round 1
 Your choice (r/p/s): rock
