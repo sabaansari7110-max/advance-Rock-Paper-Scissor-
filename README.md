@@ -28,14 +28,25 @@ python rps.py
 ## or
 node rps.js
 ## or
-./rps    (if you made it in C/C++/Rust/Go etc.)
+<br>
+./rps    (if you made it in 
+<br>
+C/C++/Rust/Go etc.)
+<br>
 Controls
+<br>
 Just type:
+<br>
 r or rock
+<br>
 p or paper
+<br>
 s or scissors
+<br>
 (Uppercase/lowercase doesn't matter)
+<br>
 Type q or quit to exit the game at any time.
+<br>
 Example Gameplay
 Rock Paper Scissors - First to 5 Wins
 -------------------------------------
