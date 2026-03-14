@@ -1,4 +1,4 @@
-# advance-Rock-Paper-Scissor-# Rock Paper Scissors - Terminal Edition
+# advance-Rock-Paper-Scissor- Terminal Edition
 
 A simple, fun Rock-Paper-Scissors game you play against the computer right in your terminal.
 
