@@ -1,4 +1,4 @@
-# advance-Rock-Paper-Scissor- Terminal Edition
+# Advance-Rock-Paper-Scissor- Terminal Edition
 
 A simple, fun Rock-Paper-Scissors game you play against the computer right in your terminal.
 
@@ -57,7 +57,6 @@ Computer: Scissors
 → Computer wins!
 
 Score: You 1 – Computer 1
-
 =====================================
           GAME FINISHED!
 =====================================
@@ -70,20 +69,26 @@ Python 3.x (if Python version)
 No external libraries needed.
 
 ## Possible Future Improvements (feel free to add)
-Add difficulty levels (dumb / normal / evil computer)
-Keep match history / win streak
-Add funny taunts from the computer
-ASCII art for hands
-Score saving between sessions.
-Have fun and may your throws always be strong! ✊✌️✋
-Short single-file version (if you want something very minimal):
+-Add difficulty levels (dumb / normal / evil computer)
+<br>
+-Keep match history / win streak
+<br>
+-Add funny taunts from the computer
+<br>
+-ASCII art for hands
+<br>
+-Score saving between sessions.
+<br>
+-Have fun and may your throws always be strong! ✊✌️✋
+<br>
+
 
 ```markdown
 # RPS Terminal
 ```
 Super simple Rock-Paper-Scissors in your terminal.  
 First to **5 wins**.
-
+```
 ```bash
 python3 rps.py
 # or python rps.py
