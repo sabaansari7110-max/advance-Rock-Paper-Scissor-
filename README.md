@@ -25,25 +25,14 @@ cd rock-paper-scissors-terminal
 python3 rps.py
 ## or
 python rps.py
-## or
-node rps.js
-## or
-<br>
-./rps    (if you made it in 
-<br>
-C/C++/Rust/Go etc.)
-<br>
-Controls
-<br>
-Just type:
+
+## Just type:
 <br>
 r or rock
 <br>
 p or paper
 <br>
 s or scissors
-<br>
-(Uppercase/lowercase doesn't matter)
 <br>
 Type q or quit to exit the game at any time.
 <br> 
@@ -68,7 +57,7 @@ Computer: Scissors
 → Computer wins!
 
 Score: You 1 – Computer 1
-...
+
 =====================================
           GAME FINISHED!
 =====================================
