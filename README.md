@@ -18,9 +18,11 @@ First to **5 wins** takes the match!
 
 ```bash
 # Clone the repository (if you haven't already)
-git clone https://github.com/YOUR-USERNAME/rock-paper-scissors-terminal.git
+https://github.com/sabaansari7110-max/advance-Rock-Paper-Scissor-.git
 cd rock-paper-scissors-terminal
 ```
+copy code
+
 # Run the game (choose the command depending on your implementation)
 python3 rps.py
 ## or
