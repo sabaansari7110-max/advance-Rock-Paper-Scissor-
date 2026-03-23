@@ -168,7 +168,9 @@ Score: You 1 – Computer 1
           GAME FINISHED!
           <br>
 =====================================
+<br>
 Final Score: You 5 – Computer 3
+<br>
 YOU WIN THE MATCH! 🎉
 
 Play again? (y/n):
