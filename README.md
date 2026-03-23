@@ -162,9 +162,10 @@ Computer: Scissors
 → Computer wins!
 
 Score: You 1 – Computer 1
-
 =====================================
+<br>
           GAME FINISHED!
+          <br>
 =====================================
 Final Score: You 5 – Computer 3
 YOU WIN THE MATCH! 🎉
